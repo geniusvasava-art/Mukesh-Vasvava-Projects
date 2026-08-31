@@ -1,0 +1,11 @@
+{
+  "name": "CalorieDetect AI - Smart Food & Nutrition Scanner",
+  "description": "PC webcam and image recognition app to identify food portions, estimate nutritional values, and discover intelligent low-calorie reduction strategies.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
